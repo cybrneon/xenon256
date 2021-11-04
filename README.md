@@ -1,2 +1,2 @@
 # xenon256
-An open-source pixelated typeface family.
+An open-source pixel sans serif and grotesk typeface family.
