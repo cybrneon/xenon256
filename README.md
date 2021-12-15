@@ -1,5 +1,6 @@
 # Xenon256
-An open-source pixel sans serif and grotesk typeface family.
+An open-source pixel grotesk typeface family of two fonts, Regular & Corrupted.
+https://behance.net/cybrneon/xenon256
 
 ![Xenon256_behance_pres-01](https://user-images.githubusercontent.com/48329074/146239601-d32c69b5-a69e-433d-8ad1-5299bb126326.png)
 
